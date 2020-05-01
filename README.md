@@ -3,7 +3,7 @@ Welcome to the slemp system!
 
 To use the system please follow the steps below:
   
-  First you must be using Google chrome. Next you can access the system by following this link.
+  First you must be using Google chrome. Next you can access the system by following this link: https://mcnamaramj20.github.io/SLEMP.github.io/
   
   Once you acces this link you can interact with the SLEMP system by either voice or typing into the chatbot.
   
@@ -11,8 +11,6 @@ To use the system please follow the steps below:
   
   Finally you can check your own demerits by clicking on the finall link and navigating to your web demerit tape through PostView.
 
-Below is a link to the SLEMP system-
-https://mcnamaramj20.github.io/SLEMP.github.io/
   
 The DialogFlow webpage can be accesed through this link, navigate to console and log in (credentials for this will be provided on a need basis): https://dialogflow.com
 
