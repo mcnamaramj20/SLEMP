@@ -11,12 +11,16 @@ To use the system please follow the steps below:
   
   Finally you can check your own demerits by clicking on the finall link and navigating to your web demerit tape through PostView.
 
-Below is a link to the Dialogflow webpage where you can log in to to view the SLEMP system-
+Below is a link to the SLEMP system-
 https://mcnamaramj20.github.io/SLEMP.github.io/
   
+The DialogFlow webpage can be accesed through this link, navigate to console and log in (credentials for this will be provided on a need basis): https://dialogflow.com
+
 The google sheets that are listed below represent both the Major and Minor offenses
+
 Major Offenses: https://docs.google.com/spreadsheets/d/1ZnDEzauk2SrPxTj49HsjkwtORF0ZjK97-pPL6aezpgg/edit?usp=sharing
 
 Minor Offenses: https://docs.google.com/spreadsheets/d/1AGtY8jq6qQ335qWe-6f5KWPyclR-v2KDpMTRLg9UhC0/edit?usp=sharing
 
+NOTE: the code for the webpage is the index HTML file above.
 
