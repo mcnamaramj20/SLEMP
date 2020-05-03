@@ -9,10 +9,10 @@ To use the system please follow the steps below:
   
   You can also view a blue book PDF by clicking on the link in the center of the system. 
   
-  Finally you can check your own demerits by clicking on the finall link and navigating to your web demerit tape through PostView.
+  Finally, you can check your own demerits by clicking on the lasy link and navigating to your web demerit tape through VMI'S PostView.
 
   
-The DialogFlow webpage can be accesed through this link, navigate to console and log in (credentials for this will be provided on a need basis): https://dialogflow.com
+The DialogFlow webpage can be accesed through the following link, navigate to console and log in (credentials for this will be provided on a need basis): https://dialogflow.com
 
 The google sheets that are listed below represent both the Major and Minor offenses
 
